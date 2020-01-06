@@ -1,0 +1,17 @@
+title: sayap
+tags: 
+colorID: 0
+position: 524,111
+---
+<<if visited("sayap") is false>>
+If any of you experts here could make our _ become more inhabitable, I'll pay with everything I've got!
+-> Where is this place and mind I ask who are you?
+    Sayap: The Name is Sayap Maragang and I've got money you could only dream of.
+    Player: . . .
+-> Eavesdrop
+   I thought there would be something major going on here. It was just another disappointment.
+<<else>>
+    Player: Hey.
+    Sayap: DO I LOOK LIKE I KNOW YOU ?!
+<<endif>>
+===

@@ -1,0 +1,58 @@
+title: Start
+tags: 
+colorID: 0
+position: 592,181
+---
+The disparity between the wealthier and poorer nations have grown to the point where it is no longer feasible for the gap to be closed. #line:675d661a
+<<setsprite bg 1>>
+In addition, the choice of certain geographical regions to invest their economies in certain productions have backfired. #line:cde582fb
+<<setsprite bg 2>>
+Despite the socio-economical incongruence in the statuses of the different nations
+<<setsprite bg 2>>
+Some technologies were still able to advance due to developments in areas of scientific research that are not reliant on the socio-economic conditions of the country
+<<setsprite bg 2>>
+since scientific collaboration allows the sharing of resources and expertise. 
+<<setsprite bg 3>>
+Therefore, genetics is one area that is able to develop independently resulting in major advances in genetic manipulation that remains just as much controversial in this game world. 
+<<setsprite bg 3>>
+Genome-editing technology has advanced to a stage where it is possible for humanity to stop ageing after 30, although it does not prevent other forms of mortality. 
+<<setsprite bg 4>>
+However, as technology is fairly recent, with ethical approval only obtained after years of non-human testing
+<<setsprite bg 4>>
+Only two generations of humans have had their genes edited and must be done during the first three months of pregnancy. 
+<<setsprite bg 5>>
+However, some parents opted not to meddle with the genes of their fetuses.
+<<setsprite bg 6>>
+Nevertheless, the consequence of having this technology incorporated into the human body is that the human has a 50% chance of developing a brain tumor
+<<setsprite bg 6>>
+This brain tumor infuses the human with a psychic ability to look into the future. 
+<<setsprite bg 6>>
+While the brain tumor could not be prevented, it could be kept.
+<<setsprite bg 6>>
+As long as the person stays on a drug (BT-NI) that has been injected into the blood stream in nanocapsule form that periodically releases the drug into the blood stream. 
+<<setsprite bg 6>>
+The nanocapsule will remain in the blood stream until all other drugs have been released before evaporating.
+<<setsprite bg 6>>
+Therefore, the genetically modified individuals (GMIs) with the brain tumor will have to maintain a regime 
+<<setsprite bg 6>>
+Where they require an annual replenishment of the capsule into their body by using a painless pump system. 
+<<setsprite bg 6>>
+Any reduction of the drug below a certain threshold will immediately activate the malignancy of the tumor, one that is irreversible. 
+<<setsprite bg 7>>
+However, this drug is expensive and only available to those who could afford the maintenance of an insurance plan to cover it. 
+<<setsprite bg 7>>
+While the malignant tumor does not kill off the individual that has it, whereby the individual is able to remain alive for two more decades 
+<<setsprite bg 7>>
+From the time they remain untreated by the drug without manifesting any explicit phenotypal signs of degeneracy, the consequence of going off the drug is irreversible.
+<<setsprite bg 8>>
+A GMI with brain tumor, whether or not treated by the drug, has the ability to travel in the parallel world
+<<setsprite bg 8>>
+Although the conditions differ for the GMI on the drug and the GMI not on the drug, as we will see in the details pertaining to the characteristics of the player.
+[[Enter|Enter]] #line:e6cebba9
+===
+
+title: Enter
+tags: 
+colorID: 0
+position: 387,487
+---

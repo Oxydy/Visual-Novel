@@ -1,0 +1,17 @@
+title: frank
+tags: 
+colorID: 0
+position: 524,111
+---
+<<if visited("frank") is false>>
+-> Where is this place and mind I ask who are you?
+    frank: I'm gonna be frank with you, i'm really good when it comes to dealing with policies
+    frank: That's why I'm invited to discuss policies on this ship with my partner, have you seen her?
+    Player: I'm guessing Ngah Melor Tan?
+-> Eavesdrop
+   Sigh. I would wish one day my kids could grew up see beauty of mother nature and but _ loss is making it even more impossible as each day passes. Perhaps the tree _ policies are not effective as I would have thought.
+<<else>>
+    Player: Hey.
+    frank: Let Ngah know if you ever meet her that I'm looking for her.
+<<endif>>
+===

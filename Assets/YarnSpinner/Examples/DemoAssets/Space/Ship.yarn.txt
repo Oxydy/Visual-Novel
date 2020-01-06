@@ -1,0 +1,21 @@
+title: Ship
+tags: 
+colorID: 0
+position: 721,130
+---
+<<if visited("Ship") is false>>
+    Ship: Hey there.
+    Player: Mothership!
+    Player: Where am I right now? Why am I here?
+    Ship: Oh, man.
+    <<setsprite ShipFace happy>>
+        Ship: You should explore yourself to find the answers, it would be fun!
+	Ship: There's something from everyone that you can take away. This is the least I could tell you.
+    <<setsprite ShipFace neutral>>
+<<else>>
+    <<setsprite ShipFace happy>>
+        Ship: Hey!!
+    <<setsprite ShipFace neutral>>
+<<endif>>
+
+===

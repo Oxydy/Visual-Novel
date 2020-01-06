@@ -1,0 +1,17 @@
+title: aj
+tags: 
+colorID: 0
+position: 524,111
+---
+<<if visited("aj") is false>>
+-> Where is this place and mind I ask who are you?
+    Andrew: Did you frequently went through 7th street? Then you should have seen few of my ads. HAHA! 
+    Andrew: Anyways, I'm Andrew Jacobs and I provide various urban planning as well as architecture solutions. Here's my contact, call me for personal discounts, only for today!
+    Player: Thanks for the offer, but I don't think I will be needing it.
+-> Eavesdrop
+   The latest trend in urban planning is to reduce the use of air conditioner, who would have thought such trend could happen? Reducing _ depletion?
+<<else>>
+    Player: Hey.
+    Andrew: Hi.
+<<endif>>
+===

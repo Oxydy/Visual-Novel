@@ -1,0 +1,17 @@
+title: aminah
+tags: 
+colorID: 0
+position: 524,111
+---
+<<if visited("aminah") is false>>
+-> Where is this place and mind I ask who are you?
+    aminah: Would you be interested to take a look in my latest breakthrough?
+    aminah: It is a one of a kind large scale purifier that filters _ from air and water.
+    Player: That would be great but you mother was looking for you.
+-> Eavesdrop
+   If we could find a way to use fully utilized _ fuel as a clean energy source that would greatly shaped the world we live in.
+<<else>>
+    Player: Hey.
+    aminah: You don't get to see this kind of breakthrough everyday.
+<<endif>>
+===

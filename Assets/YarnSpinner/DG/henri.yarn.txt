@@ -1,0 +1,19 @@
+title: henri
+tags: 
+colorID: 0
+position: 524,111
+---
+<<if visited("henri") is false>>
+-> Where is this place and mind I ask who are you?
+    henri: If you ever need private information, I've got you covered.
+    henri: That is at a small cost.
+    Player: I might need some help from that.
+-> Eavesdrop
+   My sis was always obsessed with PharmaC's plan ever since I gave that piece of information. What is all the fuss with human _ on climate change?
+<<else>>
+    Player: Hey.
+    henri: You know where to find me when you need it.
+-> I have met everyone
+   Have you figure out the meaning?
+<<endif>>
+===

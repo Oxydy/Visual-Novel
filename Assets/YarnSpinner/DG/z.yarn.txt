@@ -1,0 +1,19 @@
+title: z
+tags: 
+colorID: 0
+position: 524,111
+---
+<<if visited("z") is false>>
+The _ is a beautiful view from the ship but it won't last long enough, mother _ could no longer withstand it.
+-> Where is this place and mind I ask who are you?
+    Zachary: Do you not know me?! I'm the famous inventor of The Time Machine 
+    Player: I'm sorry I do not remember much
+-> Nod with a smile
+   Zachary: You there! Who are you wandering around?
+   Player: I'm lost . . .
+   Zachary: Get out of my way and stop blocking my view.
+<<else>>
+    Player: Hey.
+    Zachary: . . .
+<<endif>>
+===

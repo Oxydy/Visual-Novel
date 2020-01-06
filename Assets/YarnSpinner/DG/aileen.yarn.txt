@@ -1,0 +1,17 @@
+title: aileen
+tags: 
+colorID: 0
+position: 524,111
+---
+<<if visited("ngah") is false>>
+-> Where is this place and mind I ask who are you?
+    aileen: You may not know me, but I'm sure you know my husband, Zachary.
+    aileen: Do you? If you meet him, please don't mind his manners, he is a busy man.
+    Player: Well I had already met him, thanks for heads up.
+-> Eavesdrop
+   If everyone could time travel, why is _ - renewable _ still not the mainly preferred to power the future? If people could see the future, they will understand. 
+<<else>>
+    Player: Hey.
+    aileen: Have you seen my daughter, Aminah?.
+<<endif>>
+===

@@ -1,0 +1,18 @@
+title: ngah
+tags: 
+colorID: 0
+position: 524,111
+---
+<<if visited("ngah") is false>>
+-> Where is this place and mind I ask who are you?
+    Ngah: Well, I'm glad you asked, I'm a highly-ranked civil servant! 
+    Ngah: I'm invited to discuss policies on this ship, and who are you?
+    Player: I'm not sure . . .
+-> Eavesdrop
+   People fail to understand what kind of causes they had made to the environment. 
+   We need a program to raise awareness on the _ and damage. 
+<<else>>
+    Player: Hey.
+    Ngah: Hi.
+<<endif>>
+===

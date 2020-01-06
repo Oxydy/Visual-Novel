@@ -1,0 +1,17 @@
+title: elsie
+tags: 
+colorID: 0
+position: 524,111
+---
+<<if visited("elsie") is false>>
+-> Where is this place and mind I ask who are you?
+    elsie: I'm the twin sister of Liza.
+    elsie: Have you seen her? I'm looking for her.
+    Player: Yea, I just met her awhile ago.
+-> Eavesdrop
+   My twin sister always told me that the so called laughing gas, _ oxide is one the main contribution towards greenhouse gases. Bet none of you know about it, HAHA!
+<<else>>
+    Player: Hey.
+    elsie: Thanks for letting me know of her whereabouts.
+<<endif>>
+===

@@ -1,0 +1,17 @@
+title: sofia
+tags: 
+colorID: 0
+position: 524,111
+---
+<<if visited("sofia") is false>>
+-> Where is this place and mind I ask who are you?
+    sofia: Answer my question! Do you know anything about latest controversy surrounding Mr. Sayap?
+    sofia: Or do you have anything fresh information about PharmaC? Perhaps I could offer you something . . .
+    Player: I don't have anything for you.
+-> Eavesdrop
+   Many had said  the _ level has raise its level once again. Is PharmaC experimenting something  to solve this issue?
+<<else>>
+    Player: Hey.
+    sofia: Make sure you let me know if you have anything regarding PharmaC.
+<<endif>>
+===

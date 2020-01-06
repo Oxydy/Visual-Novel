@@ -1,0 +1,17 @@
+title: liza
+tags: 
+colorID: 0
+position: 524,111
+---
+<<if visited("liza") is false>>
+-> Where is this place and mind I ask who are you?
+    Liza: Hi there, I'm an expert in neuropsychology and neuroscience.  
+    Liza: They say there will be a conference held here, were you invited too?
+    Player: I'm afraid not.
+-> Eavesdrop
+   _ is warming up so quickly, no thanks to burning fossil fuels when Electronic vehicles is widely available. Usage of fossil fuels should be completely be banned by the government! All this carbon dioxide and water _ in troposphere trapping all the heat. Well at least we get free Sauna session
+<<else>>
+    Player: Hey.
+    Liza: Hi.
+<<endif>>
+===
